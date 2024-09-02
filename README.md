@@ -26,10 +26,10 @@ This technical challenge aims to evaluate your full-stack development skills, pa
   docker-compose up --build
   ```
    This command will:
-     - Build the Docker images for the backend and frontend services.
-     - Start the MongoDB database container.
-     - Start the backend service on port 8000.
-     - Start the frontend service on port 3000.
+   - Build the Docker images for the backend and frontend services.
+   - Start the MongoDB database container.
+   - Start the backend service on port 8000.
+   - Start the frontend service on port 3000.
 4.	Access the Application:
    - Once the containers are up and running, you can access the application via the following URLs:
       - Frontend: http://localhost:3000
